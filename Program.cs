@@ -9,7 +9,7 @@ namespace Kiemtra
             do
             {
                 Console.OutputEncoding = System.Text.Encoding.UTF8;
-                Console.WriteLine("Chọn bài tập (1-2) hoặc 0 để thoát:");
+                Console.WriteLine("Chọn bài tập (1-5) hoặc 0 để thoát:");
                 Console.WriteLine("1. Xếp loại học lực sinh viên");
                 Console.WriteLine("2. Tính điểm trung bình, điểm cao và điểm thấp nhất");
                 Console.WriteLine("3. Quản lý danh sách sinh viên");
