@@ -1,0 +1,14 @@
+D:\Test\Kiemtra\Kiemtra\obj\Debug\net8.0\Kiemtra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\Kiemtra\Kiemtra\obj\Debug\net8.0\Kiemtra.AssemblyInfoInputs.cache
+D:\Test\Kiemtra\Kiemtra\obj\Debug\net8.0\Kiemtra.AssemblyInfo.cs
+D:\Test\Kiemtra\Kiemtra\obj\Debug\net8.0\Kiemtra.csproj.CoreCompileInputs.cache
+D:\Test\Kiemtra\Kiemtra\bin\Debug\net8.0\Kiemtra.exe
+D:\Test\Kiemtra\Kiemtra\bin\Debug\net8.0\Kiemtra.deps.json
+D:\Test\Kiemtra\Kiemtra\bin\Debug\net8.0\Kiemtra.runtimeconfig.json
+D:\Test\Kiemtra\Kiemtra\bin\Debug\net8.0\Kiemtra.dll
+D:\Test\Kiemtra\Kiemtra\bin\Debug\net8.0\Kiemtra.pdb
+D:\Test\Kiemtra\Kiemtra\obj\Debug\net8.0\Kiemtra.dll
+D:\Test\Kiemtra\Kiemtra\obj\Debug\net8.0\refint\Kiemtra.dll
+D:\Test\Kiemtra\Kiemtra\obj\Debug\net8.0\Kiemtra.pdb
+D:\Test\Kiemtra\Kiemtra\obj\Debug\net8.0\Kiemtra.genruntimeconfig.cache
+D:\Test\Kiemtra\Kiemtra\obj\Debug\net8.0\ref\Kiemtra.dll
